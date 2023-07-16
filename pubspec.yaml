@@ -1,6 +1,6 @@
 name: goldpriceupdate
 description: Gold Price Update
-version: 0.0.4
+version: 0.1.0
 homepage: https://github.com/codepadding/goldpriceupdate.git
 repository: https://github.com/codepadding/goldpriceupdate.git
 
@@ -14,6 +14,7 @@ dependencies:
 
   provider: ^6.0.1
   socket_io_client: ^2.0.1
+  package_info_plus: ^4.0.2
 
 
 
