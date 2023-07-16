@@ -1,6 +1,7 @@
 library goldpriceupdate;
 
 export 'src/gold_price_update.dart';
+export 'src/gold_price_provider.dart';
 
 /// A Calculator.
 class Calculator {
